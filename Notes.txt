@@ -2,6 +2,5 @@ This is a demo file
 
 used to create something
 
-Tiger
 
 Thank you

@@ -5,4 +5,7 @@ used to create something
 changes added to new sub branch1
 
 Thank you
+
 Changes made to sub-branch1 to check merging conflicts
+
+Changes made to master
